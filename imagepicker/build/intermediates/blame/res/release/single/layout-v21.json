@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\studioWorkspace\\ImagePicker_Demo\\imagepicker\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\studioWorkspace\\ImagePicker_Demo\\imagepicker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\studioWorkspace\\ImagePicker_Demo\\imagepicker\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\studioWorkspace\\ImagePicker_Demo\\imagepicker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\studioWorkspace\\ImagePicker_Demo\\imagepicker\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "D:\\studioWorkspace\\ImagePicker_Demo\\imagepicker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\studioWorkspace\\ImagePicker_Demo\\imagepicker\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\studioWorkspace\\ImagePicker_Demo\\imagepicker\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    }
+]
