@@ -3,4 +3,4 @@
 </br>该项目参考了：
 * (https://github.com/jeasonlzy/ImagePicker)<br>
 ## 演示
-    ![image]
+    ![image](https://github.com/superBlossom/ImagePicker/raw/screenshot/)
