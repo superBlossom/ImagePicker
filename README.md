@@ -3,4 +3,4 @@
 </br>该项目参考了：
 * (https://github.com/jeasonlzy/ImagePicker)<br>
 ## 演示
-    ![image](https://github.com/superBlossom/ImagePicker/raw/screenshot/)
+  ![image](https://github.com/superBlossom/ImagePicker/raw/master/screenshot/device-2017-03-17-091954.png)![image](https://github.com/superBlossom/ImagePicker/raw/master/screenshot/device-2017-03-17-092040.png)
